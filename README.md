@@ -56,8 +56,8 @@ The NoviSign Test Task is a Java Spring Boot application created to showcase exp
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/DenysPiven/NoviSignTestTask.git
-cd NoviSignTestTask
+git clone https://github.com/DenysPiven/NoviSign-Test-Task.git
+cd NoviSign-Test-Task
 ```
 
 ### **3. Configure the Database**
